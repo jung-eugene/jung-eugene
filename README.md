@@ -7,7 +7,6 @@
 
 <pre>
 🌱 I am a rising junior studying computer science
-👩‍💻 I am currently working on a portfolio website
 🏃‍♀️ I am currently learning Three.js and GSAP
 🌟 Fun fact: My favorite language is Javascript
 </pre>
