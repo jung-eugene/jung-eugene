@@ -6,7 +6,7 @@
 </p>
 
 ### 🌱 Introduction
-- I am a junior studying computer science  
+- I am a senior studying computer science
 - I am currently learning React.js and Next.js
 - Check out my personal portfolio [here!](https://ejung.vercel.app/)
 
